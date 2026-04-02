@@ -1,2 +1,2 @@
 #!/bin/bash
-curl ifconfig.me > /tmp/test
+curl ifconfig.me > /tmp/tests
